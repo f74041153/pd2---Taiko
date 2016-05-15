@@ -5,3 +5,4 @@ how to play:
 3.30秒後結束選擇是否重新開始
 4.若選擇RESTART就回到第一個選單視窗
   重複步驟1~4
+****I will hand in my paper report !
